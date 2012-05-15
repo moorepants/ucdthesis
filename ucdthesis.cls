@@ -365,7 +365,7 @@
     \fmsmallfont
     Approved:\\
     {
-    
+
     \ifnum \@iselectronic > 0
       \vspace{\@approvalspace}
       $\:\overline{~~~~ \mbox{\rule{0in}{0.16in}\small ~\hspace{3.0in}}}\:$ \\
@@ -378,11 +378,11 @@
 			\member \\
 			}
 		\vspace{\@approvalspace}
-		
+
 	\else
       \vspace{\@approvalspace}
       $\:\overline{~~~~ \mbox{\rule{0in}{0.16in}\small ~\hspace{3.0in}}}\:$ \\
-			
+
 		\foreach \member in \othermembers
 			{
       \vspace{\@approvalspace}
